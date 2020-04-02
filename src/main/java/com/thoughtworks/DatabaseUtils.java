@@ -7,7 +7,7 @@ public class DatabaseUtils {
   public static final String CLASSNAME = "com.mysql.cj.jdbc.Driver";
   public static final String URL = "jdbc:mysql://localhost:3306/user";
   public static final String USER = "root";
-  public static final String PASSWORD = "962464wan~";
+  public static final String PASSWORD = "--------";
   public Connection connection;
   public Statement statement;
 
